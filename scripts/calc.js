@@ -1,5 +1,5 @@
-function addition() {
-    return 42;
+function addition(a, b) {
+    return a + b;
 }
 
 // Test module link
